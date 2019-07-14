@@ -1,0 +1,26 @@
+[{
+    "image": "./assets/images/img1.png", "clicked": false
+},{
+    "image": "./assets/images/img2.png", "clicked": false
+},{
+    "image": "./assets/images/img3.png", "clicked": false
+},{
+    "image": "./assets/images/img4.png", "clicked": false
+},{
+    "image": "./assets/images/img5.png", "clicked": false
+},{
+    "image": "./assets/images/img6.png", "clicked": false
+},{
+    "image":  "./assets/images/img7.png", "clicked": false
+},{
+    "image":  "./assets/images/img8.png", "clicked": false
+},{
+    "image":  "./assets/images/img9.png", "clicked": false
+},{
+    "image":  "./assets/images/img10.png", "clicked": false
+},{
+    "image":  "./assets/images/img11.png", "clicked": false
+},{
+    "image":  "./assets/images/img12.png", "clicked": false
+}
+]
