@@ -1,6 +1,6 @@
-# Memory Game
+# Clicky Game
 
-Let's train your 🧠 memory with this simple game build with React!
+Let's train your memory with this simple game build with React!
 
 ### Rules
   - Just don't click in any image twice
