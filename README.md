@@ -10,4 +10,4 @@ Let's train your memory with this simple game build with React!
   - `npm install`
   - `npm start`
 
-#### or just click [here](https://adliano.github.io/memory_game/)
+
